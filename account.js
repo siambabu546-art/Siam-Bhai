@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "SIAM";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = SIAM_BHAI_ONLY_1;
+var telegram_channel_link = "SIAM_BHAI_ONLY_1";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/siamfreecoding";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = https://youtube.com/@messi10siam?si=uLVkqDkEAKD5--91;
+var youtube_channel_link = "https://youtube.com/@messi10siam?si=1n6aLZEdkB2jS01n";
 
 // =======================================================
 // NOTIFICATION TEXT
