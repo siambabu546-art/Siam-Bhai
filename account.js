@@ -6,7 +6,7 @@ var website_name = "SIAM";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "SIAM_BHAI_ONLY_1";
+var telegram_channel_link = "https://wa.me/qr/RRYJSQXF7VRBM1";
 
 // =======================================================
 // TELEGRAM GROUP LINK
